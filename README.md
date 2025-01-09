@@ -1,4 +1,4 @@
-##Aplicacao We com Django##
+**Aplicacao We com Django
 
 Neste projeto, temos:
 *a utilização de boas práticas com Django;
